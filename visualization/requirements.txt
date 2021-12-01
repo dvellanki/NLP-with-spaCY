@@ -1,0 +1,7 @@
+spacy
+pandas
+python -m spacy download en_core_web_sm
+bs4
+nltk
+spacy_wordnet
+scattertext
